@@ -1,5 +1,5 @@
 # ©️biisal jai shree krishna 😎
-from pyrofork import Client
+from pyrogram import Client
 from info import *
 
 
