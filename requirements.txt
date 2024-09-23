@@ -1,4 +1,4 @@
-pyrogram
+pyrofork
 tgcrypto
 pytz
 requests==2.26.0
