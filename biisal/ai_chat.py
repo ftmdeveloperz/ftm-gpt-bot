@@ -29,7 +29,7 @@ async def startcmd(client, message):
             return
     await message.reply_photo(
         photo="https://telegra.ph/file/595e38a4d76848c01b110.jpg",
-        caption=f"<b>Jai Shree Krishna {userMention},\n\nIᴍ Hᴇʀᴇ Tᴏ Rᴇᴅᴜᴄᴇ Yᴏᴜʀ Pʀᴏʙʟᴇᴍs..\nYᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..\nAsᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..\n\nMʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/biisal>Bɪɪsᴀʟ</a>\nMʏ Lᴏᴠᴇʀ : <a href=tg://settings/>Tʜɪs Pᴇʀsᴏɴ</a></b>",
+        caption=f"<b>Jai Shree Krishna {userMention},\n\nIᴍ Hᴇʀᴇ Tᴏ Rᴇᴅᴜᴄᴇ Yᴏᴜʀ Pʀᴏʙʟᴇᴍs..\nYᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..\nAsᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..\n\nMʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/ftmdeveloper>FTM DEVELOPER</a>\nMʏ Lᴏᴠᴇʀ : <a href=tg://settings/>Tʜɪs Pᴇʀsᴏɴ</a></b>",
     )
     return
 
@@ -51,7 +51,7 @@ async def ai_res(message, query):
                             [
                                 InlineKeyboardButton(
                                     "sᴛᴀʀᴛ ᴍᴇ 🚩",
-                                    url=f"https://t.me/bisal_gpt_bot?start=z",
+                                    url=f"https://t.me/ftmgpt_bot?start=z",
                                 )
                             ]
                         ]
@@ -67,7 +67,7 @@ async def ai_res(message, query):
                             [
                                 InlineKeyboardButton(
                                     "sᴛᴀʀᴛ ᴍᴇ 🚩",
-                                    url=f"https://t.me/bisal_gpt_bot?start=z",
+                                    url=f"https://t.me/ftmgpt_bot?start=z",
                                 )
                             ]
                         ]
@@ -186,7 +186,7 @@ async def broadcasting_func(client, message):
                                 [
                                     InlineKeyboardButton(
                                         "ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ 🚩",
-                                        url=f"https://bit.ly/bisal",
+                                        url=f"https://bit.ly/ftmgptbot",
                                     )
                                 ]
                             ]
@@ -223,7 +223,7 @@ async def telegraph_upload(client, message):
                     [
                         InlineKeyboardButton(
                             "Join 🚩",
-                            url=f"https://t.me/Bisal_Files_Talk",
+                            url=f"https://t.me/ftmbotzsupport",
                         )
                     ]
                 ]
@@ -304,7 +304,7 @@ async def telegraph_upload(client, message):
                     [
                         [
                             InlineKeyboardButton(
-                                "sᴛᴀʀᴛ ᴍᴇ 🚩", url=f"https://t.me/bisal_gpt_bot?start=z"
+                                "sᴛᴀʀᴛ ᴍᴇ 🚩", url=f"https://t.me/ftmgpt_bot?start=z"
                             )
                         ]
                     ]
